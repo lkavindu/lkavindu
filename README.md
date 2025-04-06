@@ -7,11 +7,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.webp" width="300px" alt="Coding Animation">
+   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" alt="Coding Animation">
 </div>
 
 <p align="center">

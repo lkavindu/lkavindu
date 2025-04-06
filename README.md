@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lkavindu&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=lkavindu&label=PROFILE+VIEWS&color=0000FF&style=for-the-badge" alt="Profile Views">
   <a href="mailto:lasithakavindu02@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>

@@ -35,9 +35,11 @@
 - 🎨 **Design Tools:** Figma, Adobe Illustrator, Photoshop  
 - 🌱 **Learning:** Advanced Flutter animations, Firebase & Node.js  
 - 💡 **Fun Fact:** I can design AND code the entire app solo!
-
+- 📫 Reach me at: [lasithakavindu02@gmail.com](mailto:lasithakavindu02@gmail.com)
+- 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -76,6 +78,11 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="300px">
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 ## 🌟 Featured Work
 
 - 🔗 **Flutter Travel App** - [GitHub Repo](#)  
@@ -98,10 +105,13 @@
   </a>
 </p>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px">
 </div>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Keep+coding+%3C3" alt="Typing SVG" />
 </p>
+_Thanks for visiting my profile – Let’s build & design something awesome together!_

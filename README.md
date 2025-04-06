@@ -11,6 +11,10 @@
 </p>
 
 ---
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lkavindu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ### 👨‍💻 About Me
 - 💙 I craft beautiful, responsive **cross-platform apps** using **Flutter & Dart**.
@@ -32,9 +36,9 @@
 
 ### 🚀 Tech Stack
 
-| **Languages & Frameworks**                                                                                         | **Tools & Platforms**                                                                                             | **Design Tools**                                                                                                  | **Other Skills**                                       |
-|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)<br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)<br> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)<br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)<br> HTML, CSS | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)<br> Git<br> VS Code<br> MySQL | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)<br> Illustrator<br> Photoshop | Responsive UI<br> RESTful APIs<br> Data Modeling<br> State Management |
+| **Languages & Frameworks**                                                                                                                | **Tools & Platforms**                                                                                             | **Design Tools**                                                                                                  | **Other Skills**                                       |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)<br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)<br> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)<br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)<br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)<br> HTML, CSS | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)<br> Git<br> VS Code<br> MySQL | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)<br> Illustrator<br> Photoshop | Responsive UI<br> RESTful APIs<br> Data Modeling<br> State Management |
 
 <!-- Additional GIF under Tech Stack -->
 <p align="center">
@@ -53,7 +57,22 @@
 <!-- Extra GIFs for More Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<!-- GitHub Achievements & Most Used Languages -->
+### 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lkavindu&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+### 📊 Most Used Languages
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- Closing Typing Animation -->

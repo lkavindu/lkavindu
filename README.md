@@ -1,7 +1,8 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey There, I'm Kavindu! 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There, I'm Kavindu!
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -27,14 +28,13 @@
 ## 🔥 About Me
 
 - 🚀 Full-stack Flutter Developer with UI/UX superpowers  
-- 💻 Currently mastering React and backend development  
+- 💻 Currently mastering **React** and **backend development**  
 - 💖 Passionate about creating seamless digital experiences  
-
 - 🎯 **Mission:** Build apps that users fall in love with at first tap  
 - 🛠️ **Tech Toolkit:** Flutter, Dart, Java, MySQL, React, Firebase  
 - 🎨 **Design Tools:** Figma, Adobe Illustrator, Photoshop  
-- 🌱 **Learning:** Advanced Flutter animations & Node.js  
-- 💡 **Fun Fact:** Can design AND code the entire app solo  
+- 🌱 **Learning:** Advanced Flutter animations, Firebase & Node.js  
+- 💡 **Fun Fact:** I can design AND code the entire app solo!
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
@@ -44,11 +44,9 @@
 
 <div align="center">
 
-| **Category**       | **Skills** |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend**        | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Frontend**       | **Backend & DB**                                                                                                      | **Tools & Platforms**                                                                                             | **Design**                                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)<br>![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)<br>![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
 
 </div>
 
@@ -58,20 +56,20 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/lkavindu)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lkavindu&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lkavindu&theme=radical&hide_border=true&background=0D1117)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lkavindu&theme=radical&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=lkavindu&theme=radical&no-frame=true&column=7&margin-w=15)
 
 </div>
 
 ## 🚀 Current Projects
 
 ```diff
-+ Building a Flutter e-commerce app with Firebase
-+ Developing a React portfolio website
-+ Learning Node.js for backend services
++ 🚧 Building a Flutter e-commerce app with Firebase
++ 💼 Developing a React portfolio website
++ 📚 Learning Node.js for backend services
 ```
 
 <div align="center">
@@ -80,11 +78,11 @@
 
 ## 🌟 Featured Work
 
-- **Flutter Travel App** - [GitHub Repo](#)  
-- **E-Commerce UI Kit** - [Behance](#)  
-- **Java Inventory System** - [GitHub Repo](#)
+- 🔗 **Flutter Travel App** - [GitHub Repo](#)  
+- 🎨 **E-Commerce UI Kit** - [Behance](#)  
+- 🧮 **Java Inventory System** - [GitHub Repo](#)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 ## 📫 Let's Connect!
 

@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🔥 **About Me**
-```diff
+
 + Full-stack Flutter Developer with UI/UX superpowers
 ! Currently mastering React and backend development
 # Passionate about creating seamless digital experiences

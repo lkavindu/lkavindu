@@ -1,83 +1,75 @@
-<h1 align="center">Hi there 👋 I'm Kavindu!</h1>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey There, I'm Kavindu! 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</h1>
 
-<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=Flutter+Developer;UI%2FUX+Designer;React+Learner;Aspiring+Back-End+Developer;Mobile+App+Guru;Creative+Technologist;Database+Whiz+with+MySQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
-<!-- Top Animated GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.webp" width="300px" alt="Coding Animation">
+</div>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</p>
-
----
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lkavindu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-### 👨‍💻 About Me
-- 💙 I craft beautiful, responsive **cross-platform apps** using **Flutter & Dart**.
-- ⚛️ Currently **learning React** to broaden my front-end arsenal.
-- 🔥 **Bridging the gap** between design and development is my superpower.
-- 🍃 Skilled in **Java** for backend logic and proficient with **MySQL** for database management.
-- 🎯 **Aiming** to become a **back-end developer** — always exploring new **architectures** and **server-side** tools.
-- 🎨 Designing engaging UI/UX experiences with **Adobe Illustrator** and **Photoshop**.
-- 🌱 Exploring advanced **animations**, **Firebase**, and **state management** in Flutter.
-- 👯 Always open to **collaborate** on exciting **tech + design projects**.
-- 📫 Reach me at: [lasithakavindu02@gmail.com](mailto:lasithakavindu02@gmail.com)
-
-<!-- Another fun GIF to break up sections -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-</p>
-
----
-
-### 🚀 Tech Stack
-
-| **Languages & Frameworks**                                                                                                                | **Tools & Platforms**                                                                                             | **Design Tools**                                                                                                  | **Other Skills**                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)<br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)<br> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)<br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)<br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)<br> HTML, CSS | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)<br> Git<br> VS Code<br> MySQL | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)<br> Illustrator<br> Photoshop | Responsive UI<br> RESTful APIs<br> Data Modeling<br> State Management |
-
-<!-- Additional GIF under Tech Stack -->
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-</p>
-
----
-
-### ✨ Fun Fact
-> 🎨 I'm that **rare hybrid** who **codes pixels** and **paints them too**.  
-> Whether it’s building **beautiful UIs** or prototyping concepts in **Illustrator** –  
-> I love turning **ideas** into **interactive experiences** 🚀
-
----
-
-<!-- Extra GIFs for More Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<!-- GitHub Achievements & Most Used Languages -->
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkavindu&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=lkavindu&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views">
+  <a href="mailto:lasithakavindu02@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-### 📊 Most Used Languages
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=compact" alt="Top Languages" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Closing Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=22&center=true&vCenter=true&width=550&lines=Let%E2%80%99s+Build+%26+Design+Something+Awesome+Together!;Always+Learning+%26+Improving!;Thanks+For+Visiting+My+Profile!" />
-</p>
+## 🔥 **About Me**
+```diff
++ Full-stack Flutter Developer with UI/UX superpowers
+! Currently mastering React and backend development
+# Passionate about creating seamless digital experiences
 
-_Thanks for visiting my profile – Let’s build & design something awesome together!_
+🎯 Mission: Build apps that users fall in love with at first tap
+
+🛠️ Tech Toolkit: Flutter, Dart, Java, MySQL, React, Firebase
+
+🎨 Design Skills: Figma, Adobe Illustrator, Photoshop
+
+🌱 Learning: Advanced Flutter animations & Node.js
+
+💡 Fun Fact: Can design AND code the entire app solo
+
+<div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"> </div>
+🛠️ Tech Stack
+<div align="center">
+Category	Skills
+Frontend	Flutter Dart React
+Backend	Java PHP MySQL
+Design & Tools	Figma Illustrator Firebase
+</div><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📊 GitHub Stats
+<div align="center">
+Top Langs
+
+Note: Language stats only show public repos and main language per repo
+
+GitHub Streak
+
+trophy
+
+</div>
+🚀 Current Projects
++ Building a Flutter e-commerce app with Firebase
+! Developing a React portfolio website
+<div align="center"> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="300px"> </div>
+🌟 Featured Work
+Flutter Travel App - GitHub Repo
+
+E-Commerce UI Kit - Behance
+
+Java Inventory System - GitHub Repo
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📫 Let's Connect!
+<p align="center"> <a href="mailto:lasithakavindu02@gmail.com"> <img src="https://img.shields.io/badge/SEND_ME_A_MESSAGE-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/yourprofile"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </p><div align="center"> <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px"> </div><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Keep+coding+%3C3" alt="Typing SVG" /> </p> 

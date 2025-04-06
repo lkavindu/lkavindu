@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -97,10 +97,10 @@
   <a href="mailto:lasithakavindu02@gmail.com">
     <img src="https://img.shields.io/badge/SEND_ME_A_MESSAGE-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://github.com/lkavindu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://github.com/lkavindu">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
@@ -112,6 +112,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Keep+coding+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Keep+coding+%3C3" alt="Typing SVG" />
 </p>
-_Thanks for visiting my profile – Let’s build & design something awesome together!_
+Thanks for visiting my profile – Let’s build & design something awesome together!

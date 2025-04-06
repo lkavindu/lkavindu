@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <div align="center">

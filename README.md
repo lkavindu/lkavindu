@@ -38,7 +38,7 @@
 - 💡 **Fun Fact:** I can design AND code the entire app solo!
 - 📫 Reach me at: [lasithakavindu02@gmail.com](mailto:lasithakavindu02@gmail.com)
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </div>
 

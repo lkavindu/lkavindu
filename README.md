@@ -74,10 +74,6 @@
 + 📚 Learning Node.js for backend services
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="300px">
-</div>
-
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />

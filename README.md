@@ -55,10 +55,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Stats
-//
+
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=donut&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lkavindu&theme=radical&hide_border=true&background=0D1117)
 

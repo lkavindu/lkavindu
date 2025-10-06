@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey There, I'm Kavindu!
+  Hey There, I'm Kavindu Jeewantha!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </h1>
 <p align="center">

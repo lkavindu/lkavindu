@@ -108,6 +108,13 @@
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px">
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Keep+coding+%3C3" alt="Typing SVG" />

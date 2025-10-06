@@ -68,6 +68,15 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=lkavindu&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true" />
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ## 🚀 Current Projects
 
 ```diff
@@ -107,14 +116,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px">
 </div>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 

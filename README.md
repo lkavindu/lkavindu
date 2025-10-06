@@ -4,15 +4,16 @@
   Hey There, I'm Kavindu!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lkavindu/lkavindu/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=50&lines=Flutter+Developer+%7C+UI%2FUX+Designer+%7C+React+Enthusiast;Java+Backend+Explorer+%7C+MySQL+Database+Whiz;Turning+Designs+Into+Pixel-Perfect+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</p>
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lkavindu&label=PROFILE+VIEWS&color=0000FF&style=for-the-badge" alt="Profile Views">

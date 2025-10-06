@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🔥 About  Me:-
-<br>🚀 Full-stack Flutter Developer with UI/UX superpowers<br>💻 Currently mastering React, MERN stack (MongoDB, Express.js, React, Node.js), and TypeScript<br>💖 Passionate about creating seamless digital experiences<br>🎯 Mission: Build apps that users fall in love with at first tap<br>🛠️ Tech Toolkit: Flutter, Dart, Java, MySQL, React, Firebase, MERN, TypeScript<br>🎨 Design Tools: Figma, Adobe Illustrator, Photoshop<br>🌱 Learning: Advanced Flutter animations, Firebase & Node.js, scalable MERN architectures<br>💡 Fun Fact: I can design AND code the entire app solo!<br>📫 Reach me at: lasithakavindu01@gmail.com
+🚀 Full-stack Flutter Developer with UI/UX superpowers<br>💻 Currently mastering React, MERN stack (MongoDB, Express.js, React, Node.js), and TypeScript<br>💖 Passionate about creating seamless digital experiences<br>🎯 Mission: Build apps that users fall in love with at first tap<br>🛠️ Tech Toolkit: Flutter, Dart, Java, MySQL, React, Firebase, MERN, TypeScript<br>🎨 Design Tools: Figma, Adobe Illustrator, Photoshop<br>🌱 Learning: Advanced Flutter animations, Firebase & Node.js, scalable MERN architectures<br>💡 Fun Fact: I can design AND code the entire app solo!<br>📫 Reach me at: lasithakavindu01@gmail.com
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>

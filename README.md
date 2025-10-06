@@ -13,9 +13,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lkavindu&label=PROFILE+VIEWS&color=0000FF&style=for-the-badge" alt="Profile Views">
   <a href="mailto:lasithakavindu02@gmail.com">

@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkavindu&layout=donut&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117)
+![](https://github-profile-trophy.vercel.app/?username=lkavindu&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lkavindu&theme=radical&hide_border=true&background=0D1117)
 

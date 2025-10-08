@@ -1,17 +1,19 @@
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "0 0 * * *"    # runs daily at midnight UTC
-  workflow_dispatch:       # lets you trigger manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [ main ]
+
+concurrency:
+  group: publish-output
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: { contents: write }
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
@@ -20,11 +22,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake files to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

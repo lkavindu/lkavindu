@@ -55,14 +55,6 @@
 </div>
 
 ---
-
-### ✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" />
-</div>
-
----
-
 ### 🔝 Top Contributed Repo
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=lkavindu&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true" />
@@ -75,6 +67,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/lkavindu/lkavindu/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 ## 🚀 Current Projects
@@ -116,7 +109,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px">
 </div>
+### ✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" />
+</div>
 
+---
 
 
 <p align="center">

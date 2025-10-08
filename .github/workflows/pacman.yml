@@ -2,10 +2,11 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at 00:00 UTC
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
   workflow_dispatch:       # allow manual runs
   push:
-    branches: [ main ]     # also run on pushes to main
+    branches:
+      - main
 
 jobs:
   generate:
@@ -24,11 +25,10 @@ jobs:
         run: |
           find . -maxdepth 5 -type f -name "pacman-contribution-graph*.svg" -print || true
 
-      - name: Publish to output branch
+      - name: Publish Pac-Man graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

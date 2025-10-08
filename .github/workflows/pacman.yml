@@ -2,11 +2,12 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"         # daily at 00:00 UTC
-  workflow_dispatch:             # manual trigger only (no push to avoid clash)
+    - cron: "0 0 * * *"          # daily at 00:00 UTC
+  workflow_dispatch:              # run it manually from Actions tab
 
+# prevent collisions with Snake publishing to 'output'
 concurrency:
-  group: publish-output          # avoid racing Snake
+  group: publish-output
   cancel-in-progress: true
 
 jobs:
@@ -21,12 +22,11 @@ jobs:
         with:
           github_user_name: lkavindu
 
-      # >>> KEY FIX: collect outputs into dist/ <<<
+      # IMPORTANT: collect outputs into dist/ so publish step has files
       - name: Prepare dist and copy generated files
         run: |
           set -eux
           mkdir -p dist
-          # copy any pacman SVGs the action produced into dist/
           found=0
           while IFS= read -r -d '' f; do
             echo "Copying $f"
@@ -45,6 +45,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false       # force overwrite to avoid lock/FF issues
+          keep_history: false       # force overwrite to avoid lock errors
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -107,11 +107,15 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.webp" width="300px" alt="Coding animation">
 </div>
+
+---
+
 ### ✍️ Random Dev Quote
+
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random developer quote" />
 </div>
 
 ---

@@ -1,27 +1,50 @@
 name: Generate Pac-Man Contribution Graph
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"         # daily at 00:00 UTC
+  workflow_dispatch:             # manual trigger only (no push to avoid clash)
 
 concurrency:
-  group: publish-output
+  group: publish-output          # avoid racing Snake
   cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions: { contents: write }
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
-        with: { github_user_name: lkavindu }
+        with:
+          github_user_name: lkavindu
+
+      # >>> KEY FIX: collect outputs into dist/ <<<
+      - name: Prepare dist and copy generated files
+        run: |
+          set -eux
+          mkdir -p dist
+          # copy any pacman SVGs the action produced into dist/
+          found=0
+          while IFS= read -r -d '' f; do
+            echo "Copying $f"
+            cp "$f" dist/
+            found=1
+          done < <(find . -maxdepth 6 -type f -name "pacman-contribution-graph*.svg" -print0 || true)
+          if [ "$found" -eq 0 ]; then
+            echo "No pacman-contribution-graph*.svg files were generated."
+            exit 1
+          fi
+          echo "== dist contents =="
+          ls -la dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false
+          keep_history: false       # force overwrite to avoid lock/FF issues
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

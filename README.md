@@ -69,21 +69,6 @@
 
 
 
-## 🚀 Current Projects
-
-```diff
-+ 🚧 Building a Flutter e-commerce app with Firebase
-+ 💼 Developing a React portfolio website
-+ 📚 Learning Node.js for backend services
-```
-
-## 🌟 Featured Work
-
-- 🔗 **Flutter Travel App** - [GitHub Repo](#)  
-- 🎨 **E-Commerce UI Kit** - [Behance](#)  
-- 🧮 **Java Store System** - [GitHub Repo](#)
-
----
 
 ## 📫 Let's Connect!
 
